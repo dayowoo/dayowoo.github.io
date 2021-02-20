@@ -1,19 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Dayoungs' DevDev
+description: 'Hi :)'
+url: 'https://dayowoo.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
-# disable_landing_page: true
+disqus_shortname: 'dayowoo'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'dayowoo'
+  email: kkbo5222@gmail.com
+  instagram_username: dayowo_o
+  facebook_username: dayowoo
+  github_username:  dayowoo
+  # linkedin_username:  none
 
 defaults:
   -
@@ -33,12 +32,3 @@ highlighter: rouge
 sass:
     sass_dir: _sass
     style: compressed
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
