@@ -1,8 +1,10 @@
 ---
+
 title: "AWS LightSail에 Django 프로젝트 배포하기 (+리눅스 명령어)"
 date: 2021-03-17 03:17:22
 categories: [AWS]
 tags: [Django], [AWS], [LightSail], [Linux]
+
 ---
 
 ### Linux 명령어
