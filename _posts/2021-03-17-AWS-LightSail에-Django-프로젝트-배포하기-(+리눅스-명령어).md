@@ -6,35 +6,30 @@ tags: [AWS]
 ---
 
 
-#### Linux 명령어  
-
-
+### Linux 명령어  
+<br/>
 루트 권한을 줌 : <code>sudo </code> <br/>
 
 파일이나 디렉토리의 소유주를 바꿈 : <code>sudo chown</code> <br/>
 
 폴더 확인: <code>ls</code> <br/>
 
-웹서버 유지하기 : <code>nohup python manage.py runserver 0.0.0.0:8000 &</code> <br/>
-
+웹서버 유지하기 : <code>nohup python manage.py runserver 0.0.0.0:8000 &</code> 
 <br/>
 <br/>
+<br/>
 
 
-#### Tip  
-
-
+### Tip  
+<br/>
 * 명령어가 안먹힐 땐 앞에 'sudo'를 붙여보기.. (권한문제일 가능성일 큼)
 
 * WinSCP 설치 후,  drag&drop으로 업로드하면 편리하게 배포가능  
-
-
 <br/>
 <br/>
-
-#### Conference  
- 
-
+<br/>
+### Conference  
+</br>
 [AWS LighSail Django 배포 공식 튜토리얼](https://aws.amazon.com/ko/getting-started/hands-on/deploy-python-application/) <br/>
 
 [아마존 LightSail 파일 업로드 문제](https://darkstart.tistory.com/17) <br/>
