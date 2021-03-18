@@ -5,7 +5,7 @@ categories: [jekyll]
 tags: [AWS]
 ---
 
-
+<br/><br/>
 ### Linux 명령어  
 <br/>
 루트 권한을 줌 : <code>sudo </code> <br/>
