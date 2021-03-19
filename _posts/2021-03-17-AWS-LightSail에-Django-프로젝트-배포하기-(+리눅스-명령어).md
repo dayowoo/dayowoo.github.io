@@ -29,7 +29,7 @@ tags: [AWS]
 <br/>
 <br/>
 ### Conference  
-</br>
+<br/>
 [AWS LighSail Django 배포 공식 튜토리얼](https://aws.amazon.com/ko/getting-started/hands-on/deploy-python-application/) <br/>
 
 [아마존 LightSail 파일 업로드 문제](https://darkstart.tistory.com/17) <br/>
