@@ -24,11 +24,11 @@ tags: [AWS]
 <br/>
 * 명령어가 안먹힐 땐 앞에 'sudo'를 붙여보기.. (권한문제일 가능성일 큼)
 
-* WinSCP 설치 후,  drag&drop으로 업로드하면 편리하게 배포가능  
+* WinSCP 설치 후,  drag&drop으로 업로드하면 편리하게 배포가능
 <br/>
 <br/>
 <br/>
-### Conference  
+### Conference
 <br/>
 [AWS LighSail Django 배포 공식 튜토리얼](https://aws.amazon.com/ko/getting-started/hands-on/deploy-python-application/) <br/>
 
